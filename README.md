@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas Oliveira</h1>
 
-<h3 align="center">👨‍💻 FullStack Developer @Enthus</h3>
+<h3 align="center">👨‍💻 Founding Engineer @LKW</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-oliveira-de-deus-1773a42b2" target="_blank">
@@ -18,7 +18,7 @@
 
 ### Sobre Mim
 
-- Atualmente trabalhando como **Desenvolvedor FullStack** na **Enthus**
+- Atualmente trabalhando como **Founding Engineer** na **LKW**
 - Tecnólogo em **Análise e Desenvolvimento de Sistemas**
 - Cursando **Engenharia de Software** e **Arquitetura de Software, Ciência de Dados e Cybersecurity**
 - Apaixonado por desenvolvimento de software em geral
